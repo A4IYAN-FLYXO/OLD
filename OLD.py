@@ -121,4 +121,5 @@ def Fbcrack(uid,pas,tl):
 	except Exception as e:pass
 
 
-ARIYAN_FLYXO()
+
+Alhaj_404()
